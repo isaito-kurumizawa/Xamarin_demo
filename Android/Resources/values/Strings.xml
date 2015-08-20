@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">次の画面に遷移します^^</string>
+    <string name="ApplicationName">Xamarinテスト</string>    
+</resources>
